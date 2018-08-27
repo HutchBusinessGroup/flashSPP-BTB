@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hutch BTB Updater</string>
+    <string name="title_paired_devices">Paired Devices:</string>
+    <string name="title_other_devices">Other Devices:</string>
+    <string name="button_scan">Scan</string>
+    <string name="action_connect">Connect</string>
+    <string name="none_paired">No Devices Paired</string>
+    <string name="pairTip">Pair devices in Bluetooth Settings</string>
+    <string name="select_device">Choose device</string>
+    <string name="not_ready">Not Ready</string>
+    <string name="flashing">Flashing...</string>
+    <string name="flash">Flash</string>
+    <string name="connect_first">Connect first!</string>
+</resources>
